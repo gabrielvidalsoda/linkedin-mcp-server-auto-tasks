@@ -91,3 +91,5 @@ Thumbs.db
 
 # Development scratch directory
 _/
+# Logs locais (ex.: MCP Gateway do VS Code)
+logs/
